@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#Ni",
+        "DWL",
+        "YMS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dragon_head"
+        },
+        "N": {
+            "item": "minecraft:netherite_sword"
+        },
+        "i": {
+            "item": "summermod:mineralwater_ingot"
+        },
+        "D": {
+            "item": "summermod:blue_block"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        },
+        "L": {
+            "item": "minecraft:lapis_block"
+        },
+        "Y": {
+            "item": "minecraft:wither_rose"
+        },
+        "M": {
+            "item": "minecraft:diamond_sword"
+        },
+        "S": {
+            "item": "minecraft:sculk_sensor"
+        }
+    },
+    "result": {
+        "item": "summermod:waterdemon",
+        "count": 1
+    }
+}
